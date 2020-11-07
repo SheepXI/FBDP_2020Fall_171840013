@@ -9,9 +9,7 @@
 ## 截图
 
 代码运行截图
-
-![image-20201107172245238](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20201107172245238.png)
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201107172245238.png" />
 
 HDFS的Web截图（迭代次数=5）
-
-![image-20201107172325364](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20201107172325364.png)
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201107172325364.png" />
