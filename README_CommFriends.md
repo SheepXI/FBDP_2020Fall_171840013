@@ -37,19 +37,17 @@
 
 # 代码结果
 
-<img src="./images/image-20201031011310426.png" alt="image-20201031011310426" style="zoom:75%;" />
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201031011310426.png" alt="image-20201031011310426" style="zoom:75%;" />
 
 # 运行截图
-
-![image-20201031011811550](images\image-20201031011811550.png)
-
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201031011811550.png" alt="image-20201031011310426";" />
 
 
 ## 遇到的问题及解决方案
 
 总体比较顺利没遇到什么大问题，只是作为一个强迫症看到下面的Warning很不爽：
 
-<img src="images\image-20201031012105468.png" alt="image-20201031012105468" style="zoom:67%;" />
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201031012105468.png" alt="image-20201031012105468" style="zoom:67%;" />
 
 就在前面加了一行注解：
 
@@ -59,4 +57,4 @@
 
 另外还有output删起来很麻烦的问题，用下图的方式在main里把它删掉了：
 
-<img src="images\image-20201031012325567.png" alt="image-20201031012325567" style="zoom:67%;" />
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201031012325567.png" alt="image-20201031012325567" style="zoom:67%;" />
