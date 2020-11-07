@@ -37,11 +37,9 @@
 
 
 ## 代码结果
-
-![image-20201104024149193](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20201104024149193.png)
-
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201104024149193.png" alt="image-20201104024207690" />
 
 
 ## 运行截图
 
-<img src="C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20201104024207690.png" alt="image-20201104024207690" style="zoom:67%;" />
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201104024207690.png" alt="image-20201104024207690" style="zoom:67%;" />
