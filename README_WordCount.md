@@ -214,13 +214,12 @@ public static void main(String[] args) throws IOException, ClassNotFoundExceptio
 
 完整结果见wc/WordCount/output2/part-r-00000文件
 
-![image-20201028224139527](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20201028224139527.png)
-
+![image-20201028224139527](https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201028224139527.png)
 
 
 ## 运行截图
 
-![image-20201028221736822](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20201028221736822.png)
+![image-20201028221736822](https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201028221736822.png)
 
-![image-20201028221344314](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20201028221344314.png)
+![image-20201028221344314](https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201028221344314.png)
 
