@@ -37,8 +37,7 @@
 
 # 代码结果
 
-<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/blob/main/images/image-20201031011310426.png?raw=true" alt="image-20201031011310426" style="zoom:75%;" />
-
+<img src="https://github.com/SheepXI/FBDP_2020Fall_171840013/raw/main/images/image-20201031011310426.png" alt="image-20201031011310426" style="zoom:75%;" />
 
 # 运行截图
 
